@@ -7,6 +7,8 @@
 
 ## Ⓙ jikeme
 
+![jikeme](https://raw.githubusercontent.com/findingsea/jikeme/master/dist/exmaple.gif)
+
 让你在命令行摸🐟刷圈子，GitHub 🔗：[findingsea/jikeme](https://github.com/findingsea/jikeme)，by Ⓙ @findingsea Ⓙ @ChungZH 
 
 ## Ⓙ jikefm
