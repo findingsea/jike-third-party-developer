@@ -22,6 +22,8 @@
 
 ## Ⓙ Jike-Metro 🚇
 
+![Jike-Metro 🚇](https://github.com/findingsea/jike-third-party-developer/blob/master/dist/jike-metro.png?raw=true)
+
 即刻 API Python SDK，即刻搭车指南，GitHub 🔗：[Sorosliu1029/Jike-Metro](https://github.com/Sorosliu1029/Jike-Metro)， by Ⓙ搞即建的 
 
 ## Ⓙ 即刻喵
