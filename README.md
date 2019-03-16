@@ -34,6 +34,8 @@ jike-meow 2.0，重写了一遍并添加了更多功能，GitHub 🔗：[即刻�
 
 ## Ⓙ 即刻黄历
 
+![即刻黄历](https://github.com/findingsea/jike-third-party-developer/blob/master/dist/jike-calendar.jpg?raw=true)
+
 JSBox 脚本，让你在 iOS 通知中心看黄历，🔗：[即刻黄历](https://xteko.com/redir?name=Jike%20Calendar&url=https%3A%2F%2Fstorage.ryannn.com%2Fjsbox%2FJike-Calendar.js&icon=icon_125.png&types=3&version=1.0&author=Ryan)，by Ryan
 
 ## Ⓙ 果果名片生成器
