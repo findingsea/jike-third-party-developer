@@ -61,6 +61,10 @@ JSBox 脚本，让你在 iOS 通知中心看黄历，🔗：[即刻黄历](https
 
 使用此APP轻松下载、分享即刻的视频，GitHub 🔗：[Zehhow/JikeVideoDownloader](https://github.com/Zehhow/JikeVideoDownloader)
 
+## Ⓙ DuangJike
+
+即刻 **「今天是周五吗？」** 圈子周边产物，GitHub 🔗：[zhufree/DuangJike](https://github.com/zhufree/DuangJike)
+
 ------
 
 > 如果你有好的建议，欢迎提 issue 或 pr。~~当然我们更爱 pr~~
