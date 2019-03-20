@@ -57,7 +57,7 @@ JSBox 脚本，让你在 iOS 通知中心看黄历，🔗：[即刻黄历](https
 
 用 sketch 帮你刷即刻的插件，GitHub 🔗：[leadream/jike-sketch-plugin](https://github.com/leadream/jike-sketch-plugin)
 
-## Ⓙ jike-sketch-plugin
+## Ⓙ JikeVideoDownloader
 
 使用此APP轻松下载、分享即刻的视频，GitHub 🔗：[Zehhow/JikeVideoDownloader](https://github.com/Zehhow/JikeVideoDownloader)
 
