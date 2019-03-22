@@ -65,6 +65,12 @@ JSBox 脚本，让你在 iOS 通知中心看黄历，🔗：[即刻黄历](https
 
 即刻 **「今天是周五吗？」** 圈子周边产物，GitHub 🔗：[zhufree/DuangJike](https://github.com/zhufree/DuangJike)
 
+## Ⓙ 明天是休息日吗？
+
+![明天是休息日吗？](https://github.com/findingsea/jike-third-party-developer/blob/master/dist/simptab.png?raw=true)
+
+自动判断 「2019年全年的节假日和周末」，并显示即刻网友的一句话。脚本 🔗：[简 Tab · 禅模式 小脚本](https://github.com/Kenshin/simptab/issues/63)，需先安装 [Kenshin/simptab](https://github.com/Kenshin/simptab)
+
 ------
 
 > 如果你有好的建议，欢迎提 issue 或 pr。~~当然我们更爱 pr~~
