@@ -71,6 +71,12 @@ JSBox 脚本，让你在 iOS 通知中心看黄历，🔗：[即刻黄历](https
 
 自动判断 「2019年全年的节假日和周末」，并显示即刻网友的一句话。脚本 🔗：[简 Tab · 禅模式 小脚本](https://github.com/Kenshin/simptab/issues/63)，需先安装 [Kenshin/simptab](https://github.com/Kenshin/simptab)
 
+## Ⓙ 即刻黄历macOS Dock版
+
+![即刻黄历 macOS Dock 版](https://raw.githubusercontent.com/Dawninest/jikeCalendar-macOS-dock/master/readSupport/01.jpg)
+
+是 即刻 的探索页日历的 macOS Dock 版，GitHub 🔗：[Dawninest/jikeCalendar-macOS-dock](https://github.com/Dawninest/jikeCalendar-macOS-dock)
+
 ------
 
 > 如果你有好的建议，欢迎提 issue 或 pr。~~当然我们更爱 pr~~
