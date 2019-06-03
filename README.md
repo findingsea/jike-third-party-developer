@@ -77,11 +77,11 @@ JSBox 脚本，让你在 iOS 通知中心看黄历，🔗：[即刻黄历](https
 
 是 即刻 的探索页日历的 macOS Dock 版，GitHub 🔗：[Dawninest/jikeCalendar-macOS-dock](https://github.com/Dawninest/jikeCalendar-macOS-dock)
 
-## Ⓙ JikeView - 即刻动态机器人
+## Ⓙ JikeView - 即刻动态机器人 🤖
 
 ![JikeView](https://github.com/sorcererxw/jike-third-party-developer/blob/master/dist/jikeview.gif?raw=true)
 
-JikeView 是一个 Telegram bot，可以帮助你抓取即刻的动态吗，并将其转化为 Telegram 的富文本格式
+JikeView 是一个 Telegram bot，可以帮助你抓取即刻的动态吗，并将其转化为 Telegram 的富文本格式。方便你将即刻消息以一种优雅的方式分享给 Telegam 上的好友。
 
 Github🔗：[sorcererxw/jikeview-bot](https://github.com/sorcererxw/jikeview-bot)
 
