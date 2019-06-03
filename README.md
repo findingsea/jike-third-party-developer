@@ -79,7 +79,7 @@ JSBox 脚本，让你在 iOS 通知中心看黄历，🔗：[即刻黄历](https
 
 ## Ⓙ JikeView - 即刻动态机器人
 
-![JikeView](https://i.imgur.com/n49pOUO.gif)
+![JikeView](https://github.com/sorcererxw/jike-third-party-developer/blob/master/dist/jikeview.gif)
 
 JikeView 是一个 Telegram bot，可以帮助你抓取即刻的动态吗，并将其转化为 Telegram 的富文本格式
 
