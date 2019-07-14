@@ -85,6 +85,18 @@ JikeView 是一个 Telegram bot，可以帮助你抓取即刻的动态，并将�
 
 Github🔗：[sorcererxw/jikeview-bot](https://github.com/sorcererxw/jikeview-bot)
 
+## Ⓙ 倒即时—— 展示即刻停服时间的微信小程序
+
+![JikeCountDown](https://github.com/RoseauHan/jike-third-party-developer/blob/master/dist/Countdown-demo.png)
+
+JikeCountDown是一款简洁的微信小程序，展示即刻停服的信息。由于众所周知的原因，即刻的所有服务在2019年7月12日关停，何时恢复依然是未知数。就让我们一起为即刻祈福吧，祝即刻早日回归！
+
+微信扫一扫即刻体验
+
+<img src="https://github.com/RoseauHan/jike-third-party-developer/blob/master/dist/miniLogo.jpg" width="150" height="150" align=center />
+
+GitHub 🔗：[JikeCountDown](https://github.com/RoseauHan/jikeCountDown)，by Ⓙroseau 
+
 ------
 
 > 如果你有好的建议，欢迎提 issue 或 pr。~~当然我们更爱 pr~~
